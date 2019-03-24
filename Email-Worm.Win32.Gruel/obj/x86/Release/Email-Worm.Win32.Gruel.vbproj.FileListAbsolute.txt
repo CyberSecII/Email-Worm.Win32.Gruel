@@ -1,0 +1,13 @@
+C:\Users\Tim\Desktop\32 GB USB Backup\Email-Worm.Win32.Gruel\Email-Worm.Win32.Gruel\bin\Release\Windows Critical Update.exe
+C:\Users\Tim\Desktop\32 GB USB Backup\Email-Worm.Win32.Gruel\Email-Worm.Win32.Gruel\bin\Release\Windows Critical Update.pdb
+C:\Users\Tim\Desktop\32 GB USB Backup\Email-Worm.Win32.Gruel\Email-Worm.Win32.Gruel\bin\Release\Windows Critical Update.xml
+C:\Users\Tim\Desktop\32 GB USB Backup\Email-Worm.Win32.Gruel\Email-Worm.Win32.Gruel\obj\x86\Release\Email-Worm.Win32.Gruel.vbprojAssemblyReference.cache
+C:\Users\Tim\Desktop\32 GB USB Backup\Email-Worm.Win32.Gruel\Email-Worm.Win32.Gruel\obj\x86\Release\Email_Worm.Win32.Gruel.Denied.resources
+C:\Users\Tim\Desktop\32 GB USB Backup\Email-Worm.Win32.Gruel\Email-Worm.Win32.Gruel\obj\x86\Release\Email_Worm.Win32.Gruel.Fake_Error.resources
+C:\Users\Tim\Desktop\32 GB USB Backup\Email-Worm.Win32.Gruel\Email-Worm.Win32.Gruel\obj\x86\Release\Email_Worm.Win32.Gruel.Well_Shit.resources
+C:\Users\Tim\Desktop\32 GB USB Backup\Email-Worm.Win32.Gruel\Email-Worm.Win32.Gruel\obj\x86\Release\Email_Worm.Win32.Gruel.Resources.resources
+C:\Users\Tim\Desktop\32 GB USB Backup\Email-Worm.Win32.Gruel\Email-Worm.Win32.Gruel\obj\x86\Release\Email-Worm.Win32.Gruel.vbproj.GenerateResource.cache
+C:\Users\Tim\Desktop\32 GB USB Backup\Email-Worm.Win32.Gruel\Email-Worm.Win32.Gruel\obj\x86\Release\Email-Worm.Win32.Gruel.vbproj.CoreCompileInputs.cache
+C:\Users\Tim\Desktop\32 GB USB Backup\Email-Worm.Win32.Gruel\Email-Worm.Win32.Gruel\obj\x86\Release\Windows Critical Update.exe
+C:\Users\Tim\Desktop\32 GB USB Backup\Email-Worm.Win32.Gruel\Email-Worm.Win32.Gruel\obj\x86\Release\Windows Critical Update.xml
+C:\Users\Tim\Desktop\32 GB USB Backup\Email-Worm.Win32.Gruel\Email-Worm.Win32.Gruel\obj\x86\Release\Windows Critical Update.pdb
